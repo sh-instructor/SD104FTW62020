@@ -1,0 +1,12 @@
+C:\Users\shanc\source\repos\ConsoleAppLesson1\ConsoleAppLesson1\bin\Debug\netcoreapp3.1\ConsoleAppLesson1.exe
+C:\Users\shanc\source\repos\ConsoleAppLesson1\ConsoleAppLesson1\bin\Debug\netcoreapp3.1\ConsoleAppLesson1.deps.json
+C:\Users\shanc\source\repos\ConsoleAppLesson1\ConsoleAppLesson1\bin\Debug\netcoreapp3.1\ConsoleAppLesson1.runtimeconfig.json
+C:\Users\shanc\source\repos\ConsoleAppLesson1\ConsoleAppLesson1\bin\Debug\netcoreapp3.1\ConsoleAppLesson1.runtimeconfig.dev.json
+C:\Users\shanc\source\repos\ConsoleAppLesson1\ConsoleAppLesson1\bin\Debug\netcoreapp3.1\ConsoleAppLesson1.dll
+C:\Users\shanc\source\repos\ConsoleAppLesson1\ConsoleAppLesson1\bin\Debug\netcoreapp3.1\ConsoleAppLesson1.pdb
+C:\Users\shanc\source\repos\ConsoleAppLesson1\ConsoleAppLesson1\obj\Debug\netcoreapp3.1\ConsoleAppLesson1.AssemblyInfoInputs.cache
+C:\Users\shanc\source\repos\ConsoleAppLesson1\ConsoleAppLesson1\obj\Debug\netcoreapp3.1\ConsoleAppLesson1.AssemblyInfo.cs
+C:\Users\shanc\source\repos\ConsoleAppLesson1\ConsoleAppLesson1\obj\Debug\netcoreapp3.1\ConsoleAppLesson1.csproj.CoreCompileInputs.cache
+C:\Users\shanc\source\repos\ConsoleAppLesson1\ConsoleAppLesson1\obj\Debug\netcoreapp3.1\ConsoleAppLesson1.dll
+C:\Users\shanc\source\repos\ConsoleAppLesson1\ConsoleAppLesson1\obj\Debug\netcoreapp3.1\ConsoleAppLesson1.pdb
+C:\Users\shanc\source\repos\ConsoleAppLesson1\ConsoleAppLesson1\obj\Debug\netcoreapp3.1\ConsoleAppLesson1.genruntimeconfig.cache
