@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RCX96DXuPzghNi+L46khR9GkAzesMdd7xU2M0/P+6FqvKBp7tz+SP/GyFMduBEpCBgajL5y6y14U26JGB/ac/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shanc\\source\\repos\\sh-instructor\\SD104FTW62020\\ConsoleAppLesson2\\ConsoleAppLesson2\\ConsoleAppLesson2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shanc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

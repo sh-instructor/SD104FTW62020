@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6MG7hYz0XpUFb1aIrEZP5+w1+CpZqY0ZMNguQ6bWRm+oW5qBt/GpldZTbX8hEUG1B53tWv3cKpEBHBPzwPGsQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shanc\\source\\repos\\sh-instructor\\SD104FTW62020\\ConsoleAppLab3-5\\ConsoleAppLab3-5\\ConsoleAppLab3-5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shanc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

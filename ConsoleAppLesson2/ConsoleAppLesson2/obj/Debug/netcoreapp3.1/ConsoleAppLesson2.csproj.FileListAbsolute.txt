@@ -1,0 +1,12 @@
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLesson2\ConsoleAppLesson2\bin\Debug\netcoreapp3.1\ConsoleAppLesson2.exe
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLesson2\ConsoleAppLesson2\bin\Debug\netcoreapp3.1\ConsoleAppLesson2.deps.json
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLesson2\ConsoleAppLesson2\bin\Debug\netcoreapp3.1\ConsoleAppLesson2.runtimeconfig.json
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLesson2\ConsoleAppLesson2\bin\Debug\netcoreapp3.1\ConsoleAppLesson2.runtimeconfig.dev.json
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLesson2\ConsoleAppLesson2\bin\Debug\netcoreapp3.1\ConsoleAppLesson2.dll
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLesson2\ConsoleAppLesson2\bin\Debug\netcoreapp3.1\ConsoleAppLesson2.pdb
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\netcoreapp3.1\ConsoleAppLesson2.AssemblyInfoInputs.cache
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\netcoreapp3.1\ConsoleAppLesson2.AssemblyInfo.cs
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\netcoreapp3.1\ConsoleAppLesson2.csproj.CoreCompileInputs.cache
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\netcoreapp3.1\ConsoleAppLesson2.dll
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\netcoreapp3.1\ConsoleAppLesson2.pdb
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLesson2\ConsoleAppLesson2\obj\Debug\netcoreapp3.1\ConsoleAppLesson2.genruntimeconfig.cache

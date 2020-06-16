@@ -1,0 +1,13 @@
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\bin\Debug\netcoreapp3.1\ConsoleAppLab3-5.exe
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\bin\Debug\netcoreapp3.1\ConsoleAppLab3-5.deps.json
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\bin\Debug\netcoreapp3.1\ConsoleAppLab3-5.runtimeconfig.json
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\bin\Debug\netcoreapp3.1\ConsoleAppLab3-5.runtimeconfig.dev.json
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\bin\Debug\netcoreapp3.1\ConsoleAppLab3-5.dll
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\bin\Debug\netcoreapp3.1\ConsoleAppLab3-5.pdb
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\obj\Debug\netcoreapp3.1\ConsoleAppLab3-5.csprojAssemblyReference.cache
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\obj\Debug\netcoreapp3.1\ConsoleAppLab3-5.AssemblyInfoInputs.cache
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\obj\Debug\netcoreapp3.1\ConsoleAppLab3-5.AssemblyInfo.cs
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\obj\Debug\netcoreapp3.1\ConsoleAppLab3-5.csproj.CoreCompileInputs.cache
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\obj\Debug\netcoreapp3.1\ConsoleAppLab3-5.dll
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\obj\Debug\netcoreapp3.1\ConsoleAppLab3-5.pdb
+C:\Users\shanc\source\repos\sh-instructor\SD104FTW62020\ConsoleAppLab3-5\ConsoleAppLab3-5\obj\Debug\netcoreapp3.1\ConsoleAppLab3-5.genruntimeconfig.cache
