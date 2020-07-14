@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shanc\\source\\repos\\sh-instructor\\SD104FTW62020\\ConsoleAppLesson5\\ConsoleAppLesson5\\ConsoleAppLesson5.csproj": {}
+    "C:\\Users\\shanc\\Source\\Repos\\sh-instructor\\SD104FTW62020\\ConsoleAppLesson5\\ConsoleAppLesson5\\ConsoleAppLesson5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shanc\\source\\repos\\sh-instructor\\SD104FTW62020\\ConsoleAppLesson5\\ConsoleAppLesson5\\ConsoleAppLesson5.csproj": {
+    "C:\\Users\\shanc\\Source\\Repos\\sh-instructor\\SD104FTW62020\\ConsoleAppLesson5\\ConsoleAppLesson5\\ConsoleAppLesson5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shanc\\source\\repos\\sh-instructor\\SD104FTW62020\\ConsoleAppLesson5\\ConsoleAppLesson5\\ConsoleAppLesson5.csproj",
+        "projectUniqueName": "C:\\Users\\shanc\\Source\\Repos\\sh-instructor\\SD104FTW62020\\ConsoleAppLesson5\\ConsoleAppLesson5\\ConsoleAppLesson5.csproj",
         "projectName": "ConsoleAppLesson5",
-        "projectPath": "C:\\Users\\shanc\\source\\repos\\sh-instructor\\SD104FTW62020\\ConsoleAppLesson5\\ConsoleAppLesson5\\ConsoleAppLesson5.csproj",
+        "projectPath": "C:\\Users\\shanc\\Source\\Repos\\sh-instructor\\SD104FTW62020\\ConsoleAppLesson5\\ConsoleAppLesson5\\ConsoleAppLesson5.csproj",
         "packagesPath": "C:\\Users\\shanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shanc\\source\\repos\\sh-instructor\\SD104FTW62020\\ConsoleAppLesson5\\ConsoleAppLesson5\\obj\\",
+        "outputPath": "C:\\Users\\shanc\\Source\\Repos\\sh-instructor\\SD104FTW62020\\ConsoleAppLesson5\\ConsoleAppLesson5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
