@@ -1,0 +1,58 @@
+﻿@model WebApplicationBlog.Models.BlogPost
+
+@{ 
+    ViewData["Title"] = "Create";
+
+
+
+}
+
+
+<h1>Create Blog Post</h1>
+
+<hr />
+
+<div class="row">
+
+
+    <div class="col-md-4">
+
+        <form asp-action="Create">
+
+            Enter Title 
+            <input asp-for="blogTitle" /> <br />
+            Enter Content:
+            <input asp-for="content" />
+            <br />
+            Enter Date
+            <input asp-for="blogDate" />
+            <br />
+
+            <input type="submit" value="Post Blog" class="btn btn-default" />
+
+
+
+
+
+
+
+        </form>
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+</div>
+

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<WebApplicationBlog.Models.BlogPost>
+@{ 
+
+    Layout = null;
+}
+
+
+
+<!Doctype html>
+<html>
+<head>
+
+
+</head>
+<body>
+
+
+    <p></p>
+      @foreach (var item in Model)        {
+        <div>
+            <p>
+
+                @Html.DisplayFor(m => item.blogTitle)  ,         @Html.DisplayFor(m => item.blogDate)
+    
+
+
+    </p>
+    <p>
+        @Html.DisplayFor(m => item.content)
+
+    </p>
+
+
+
+
+
+</div>
+
+
+
+    }
+
+
+
+
+
+</body>
+
+
+
+
+
+</html>
+
+
+
+
+
